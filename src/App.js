@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello amplify
+          Hello amplify rana sb roola pai gia wa 
         </a>
       </header>
     </div>
